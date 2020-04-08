@@ -1,0 +1,78 @@
+html,body
+{
+    height: 100%;
+}
+
+body
+{
+    background-image: linear-gradient(#00d9ff , #ffffff);
+}
+
+.add
+{
+    margin-left: 85%;
+    margin-top: 2%;
+    font-size: 20px !important;
+    border-radius: 20px !important;
+}
+
+.r
+{
+    background: rgba(0, 32, 121, 0.5);
+    margin-top: 5%;
+    border-radius: 10px;
+    width: auto;
+    border: 3px solid rgb(255, 255, 255);
+    box-shadow:3px 5px 0px 0px rgb(145, 145, 145);
+}
+
+.name
+{
+    background-color: rgb(255, 255, 255);
+    margin-top: 2%;
+    font-weight: bold;
+}
+
+.password
+{
+    background-color: rgb(255, 255, 255);
+    margin-top: 2%;
+    font-weight: bold;
+    
+
+}
+
+.in
+{
+    border-radius: 15px;
+    padding-left: 2%;
+    width: 100%;
+}
+
+.inp
+{
+    border-radius: 15px;
+    padding-left: 2%;
+    width: 100%;
+}
+
+.sign
+{
+    background: rgb(255, 0, 0);
+    border-color: rgb(255, 0, 0);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    width: 30%;
+    font-weight: bold;
+    transition: 0.2s;
+    margin-bottom: 10%;
+}
+
+.sign:hover
+{
+    cursor: pointer;
+    background-color: rgb(0, 163, 0);
+    border-color: rgb(0, 163, 0);
+    transition: 0.2s;
+}
+
